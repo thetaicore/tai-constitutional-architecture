@@ -438,8 +438,6 @@ https://arweave.net/mDHQ8-TgJptbPQdzvinsJl-cehjmvXjbz51h2OfCGAQ
 Arweave Archive 7:
 https://arweave.net/ucYa9UhNnfurr3bPwwazxE90RbuQsKCNsOgbSNS0-fs
 
-> Full address registry: `/docs/deployments/mainnet.md`
-
 ---
 
 ## 13. How to Verify Independently
